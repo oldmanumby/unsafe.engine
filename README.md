@@ -6,4 +6,4 @@ Welcome to the official repository for the Unsafe Engine. Published under [Unsaf
 
 This repository serves as the central hub for the development of the system reference documentation (SRD), tracking the core systems, character options, and accessories.
 
-More summerized information will be posted to this readme as development progresses.
+More summarized information will be posted to this README as development progresses.
