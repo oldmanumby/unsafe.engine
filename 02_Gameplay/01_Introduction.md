@@ -66,7 +66,7 @@ Gaming is a social contract between the players and a gamemaster, but it's every
 
 Also, the gamemaster will often make judgment calls to adjust the flow and pace of the game, but should never railroad the players; rather, the gamemaster should allow the game to evolve naturally, moment by moment, from the creativity of everyone involved, and from each toss of the dice.
 
-> **The gamemaster's Mandate**. It's worth noting that the gamemaster has the administrative role and, as such, has the final say over ANY rule or in-game situation. If the gamemaster wishes to make a judgment call, change, or houserule anything in the game on the spot, that's the gamemaster's purview. However, it's always best to discuss any homebrewed changes beforehand and set expectations; a good session zero, typically used to create heroes, can also serve this purpose. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust before proceeding. Nuff Said.
+> **The gamemaster's Mandate**. It's worth noting that the gamemaster has the administrative role and, as such, has the final say over ANY rule or scene. If the gamemaster wishes to make a judgment call, change, or houserule anything in the game on the spot, that's the gamemaster's purview. However, it's always best to discuss any homebrewed changes beforehand and set expectations; a good session zero, typically used to create heroes, can also serve this purpose. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust before proceeding. Nuff Said.
 
 ## The Game Conventions
 
