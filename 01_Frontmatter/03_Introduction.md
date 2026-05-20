@@ -1,4 +1,4 @@
-# Introduction
+# Playing the Game
 
 Tabletop role-playing games (TTRPG) are a collaborative storytelling experience in which players create and share memorable adventures. By bringing together two or more players around a physical or virtual tabletop (VTT), TTRPGs enable participants to assume the roles of characters in a fictional setting, much like the heroes of your favorite novels or movies. The participants build a shared narrative that fosters imagination, teamwork, fellowship, and camaraderie.
 
@@ -44,25 +44,19 @@ A tabletop role-playing game typically involves a group of players, usually rang
 
 ## The Game Materials
 
-A few supplies are needed to use this ruleset, which can be physical, digital, or a combination of both. Typically, a playgroup will draw maps, take notes, and track their characters' statistics; see Appendix XX and our official website for various game aids, sheets, forms, and more. The gamemaster should outline any material requirements or restrictions before the game begins, such as whether digital or printed tools are preferred. At a minimum, each player will need a character sheet and a set of six 6-sided dice (perhaps more).
+A few supplies are needed to use this ruleset, which can be physical, digital, or a combination of both. Typically, a playgroup will draw maps, take notes, and track their characters' statistics; see Appendix XX and our official website for various game aids, sheets, forms, and more. The gamemaster should outline any material requirements or restrictions before the game begins, such as whether digital or printed tools are preferred. At a minimum, each player will need a character sheet and a set of six 6-sided dice (6d6 or 6d).
 
 ## The Game Etiquette
 
 Gaming is a social contract between the players and an orator, but it's everyone's job to create an atmosphere of fun. Together, the orator and the players co-write the ongoing storyline from each character's perspective. For all this to function as intended, a few player guidelines should be observed:
 
-**Don't min-max your character** by trying to exploit the game rules.
-
-**Don't use player knowledge** that your character wouldn't possess.
-
-**Play your character**, not the character sheet; focus on the roleplaying.
-
-**Be prepared** and understand what your character will do on your next turn.
-
-**Participate in the game** and engage with your fellow players and the orator.
-
-**Take good notes** to avoid being surprised and from looking up rules too often.
-
-**Enjoy yourself** and the time spent with friends, caffeine, and carbohydrates.
+- **Don't min-max your character** by trying to exploit the game rules.
+- **Don't use player knowledge** that your character wouldn't possess.
+- **Play your character**, not the character sheet; focus on the roleplaying.
+- **Be prepared** and understand what your character will do on your next turn.
+- **Participate in the game** and engage with your fellow players and the orator.
+- **Take good notes** to avoid being surprised and from looking up rules too often.
+- **Enjoy yourself** and the time spent with friends, caffeine, and carbohydrates.
 
 Also, the orator will often make judgment calls to adjust the flow and pace of the game, but should never railroad the players; rather, the orator should allow the game to evolve naturally, moment by moment, from the creativity of everyone involved, and from each toss of the dice.
 
@@ -74,8 +68,9 @@ These conventions are customarily practiced throughout this ruleset.
 
 **Always round up** unless specified otherwise. Any division or multiplication of numbers will always round up, no matter the fraction. `In addition, the minimum result is always 1.`
 
-**Keywords** and any abbreviations are used throughout this ruleset and are typically defined where they first appear in the text. `Check the index to clarify whether a keyword is used but not immediately defined.` 
+**Keywords and any abbreviations** (which appear in parentheses) are used throughout this ruleset and are typically defined where they first appear in the content. `Check the index to clarify whether a keyword is used but not immediately defined.` 
 
 **Rulings, not rules** favors the orator, making good judgment calls is preferred, rather than relying on overly specific protocols. If a rule cannot be found quickly, make the wisest decision possible to keep the game flowing. Look it up later.
 
 **Specific beats general** takes precedence in the arbitration of the rules. Some rules may break or contradict others. In such cases, more specific rules usually override general rules, per the orator.
+
