@@ -1,3 +1,7 @@
-# Gameplay
+# The Game Mechanics
 
-`copy needed here`
+## Setting the Scene
+
+
+
+## The Game Flow
