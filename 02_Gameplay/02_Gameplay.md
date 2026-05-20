@@ -1,28 +1,36 @@
 # The Game Mechanics
 
-## Setting the Scene
+`copy needed here`
 
-Scenes are primarily a narrative tool for the orator to structure adventures. Scenes fall into three broad states, with some activities overlapping. For example, depending on the context, traveling could be considered an exploration or downtime activity.
+## Game Flow
 
-The gamemaster sets each scene and manages the transition from one to the next, often as part of the adventure or plot, or in response to player cues. Transitions can occur seamlessly or dramatically, depending on the situation, thereby maintaining the narrative's dynamic flow.
+### Setting the Scene
 
-### Exploration Scenes
+Scenes are primarily a narrative tool for the gamemaster to structure adventures. Scenes fall into three broad states, with some activities overlapping. For example, depending on the context, traveling could be considered an exploration or downtime activity.
 
-Exploration scenes are for investigation and discovery, such as delving, examining, problem-solving, searching, and traveling. Exploration can be used by the orator for worldbuilding and to raise anticipation during an adventure. Turns in adventuring scenes range from minutes for a quick investigation to hours for traveling between locations. Characters can take `breaks or rests` while exploring. These breaks typically allow for `healing` and `partial recovery` from certain `conditions` (see `Recovery` and/or `Conditions`).
+The gamemaster sets each scene and manages the transitions between them, often as part of the adventure or plot, or in response to player cues. Transitions can occur seamlessly or dramatically, depending on the situation, maintaining the narrative's dynamic flow.
 
-### Downtime Scenes
+#### Exploration Scenes
+
+Exploration scenes are for investigation and discovery, such as delving, examining, problem-solving, searching, and traveling. Exploration can be used by the gamemaster for worldbuilding and to raise anticipation during an adventure. Turns in adventuring scenes range from minutes for a quick investigation to hours for traveling between locations. Characters can take `breaks or rests` while exploring. These breaks typically allow for `healing` and `partial recovery` from certain `conditions` (see `Recovery` and/or `Conditions`).
+
+#### Downtime Scenes
 
 Downtime scenes are primarily for recovery and development while not adventuring, such as carousing, crafting, conducting research, and training. Downtime can be used for character development, character goals, worldbuilding, and strengthening relationships between characters and the setting. Turns in downtime scenes typically represent days, weeks, or even extended periods. Characters can `rest` during downtime scenes. Rests typically occur over an extended period (e.g., an overnight rest) and provide significant rewards, including `full recovery` from most `conditions` (see `Recovery` and/or `Conditions`).
 
-### Encounter Scenes
+#### Encounter Scenes
 
 Encounter scenes are the meat and potatoes of adventuring, primarily involving interaction and combat, such as engaging characters or fighting monsters. Encounters are used for social interplay, negotiation, and conflict resolution. Turns in encounter scenes are typically represented in `moments`, usually mere seconds per turn. `Breaks` or `rests` do not generally occur during encounter scenes, but often just after to `heal`.
 
 >**Transition to Structured Turns**
 >
->When a scene transitions to an encounter, the gameplay often shifts to a more structured turn-taking format, where the flow of actions is dictated by `preparedness, range, and momentum` (see `Combat`).` However, not all encounters require this structured approach. Orators should use discretion when determining such a format. This transition will likely occur during a chase, social conflict, negotiation, or combat.
+>When a scene transitions to an encounter, the gameplay often shifts to a more structured turn-taking format, where the flow of actions is dictated by `preparedness, range, and momentum` (see `Combat`).` However, not all encounters require this structured approach. gamemasters should use discretion when determining such a format. This transition will likely occur during a chase, social conflict, negotiation, or combat.
 
-## The Game Flow
+### Taking Turns
+
+
+
+
 
 
 
