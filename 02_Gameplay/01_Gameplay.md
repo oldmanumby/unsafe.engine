@@ -16,7 +16,7 @@ Downtime scenes are primarily for recovery and development while not adventuring
 
 ### Encounter Scenes
 
-Encounter scenes are the meat and potatoes of adventuring, primarily involving conflict and interaction, such as engaging with characters or fighting monsters. Downtime can be used for character interactions and resolving conflicts. Turns in encounter scenes are typically represented in `moments`, usually mere seconds per turn. `Breaks` or `rests` do not generally occur during encounter scenes, but often just after to `heal`.
+Encounter scenes are the meat and potatoes of adventuring, primarily involving interaction and combat, such as engaging characters or fighting monsters. Encounters are used for social interplay, negotiation, and conflict resolution. Turns in encounter scenes are typically represented in `moments`, usually mere seconds per turn. `Breaks` or `rests` do not generally occur during encounter scenes, but often just after to `heal`.
 
 >**Transition to Structured Turns**
 >
