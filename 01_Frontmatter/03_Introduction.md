@@ -30,9 +30,9 @@ A tabletop role-playing game typically involves a group of players, usually rang
 
 *Unsafe Engine* offers several approaches to gameplay.
 
-**Group play** is the primary play mode, featuring a group of players and an orator, covering one-on-one sessions as well. Except where noted, this ruleset assumes this mode.
+**Group play** is the primary play mode, featuring a group of players and an orator, and also includes one-on-one sessions. Except where noted, this ruleset assumes this mode.
 
-**Co-op play** allows a group of players to play without an orator. The players collaborate to tell the story, using as much or as little of the `oracle` to help guide the narrative.
+**Co-op play** allows a group of players to play without an orator. The players collaborate to tell the story, using as much or as little of the `oracle` as needed to guide the narrative.
 
 **Solo play** is when a single player assumes the roles of both player and orator, creatively using the `oracle` and various tables to help guide the narrative.
 
@@ -60,7 +60,7 @@ Gaming is a social contract between the players and an orator, but it's everyone
 
 Also, the orator will often make judgment calls to adjust the flow and pace of the game, but should never railroad the players; rather, the orator should allow the game to evolve naturally, moment by moment, from the creativity of everyone involved, and from each toss of the dice.
 
-> **The Orator's Mandate**. It's worth noting that the orator has the administrative role and, as such, has the final say over ANY rule or in-game situation. If the orator wishes to make a judgment call, change, or houserule anything in the game on the spot, that's the orator's purview. However, it's always best to discuss any homebrewed changes beforehand and set any expectations; a good session zero, typically used to create characters, can also be used in this way. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust before proceeding. Nuff Said.
+> **The Orator's Mandate**. It's worth noting that the orator has the administrative role and, as such, has the final say over ANY rule or in-game situation. If the orator wishes to make a judgment call, change, or houserule anything in the game on the spot, that's the orator's purview. However, it's always best to discuss any homebrewed changes beforehand and set expectations; a good session zero, typically used to create characters, can also be used for this purpose. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust before proceeding. Nuff Said.
 
 ## The Game Conventions
 
@@ -70,7 +70,7 @@ These conventions are customarily practiced throughout this ruleset.
 
 **Keywords and any abbreviations** (which appear in parentheses) are used throughout this ruleset and are typically defined where they first appear in the content. `Check the index to clarify whether a keyword is used but not immediately defined.` 
 
-**Rulings, not rules** favors the orator, making good judgment calls is preferred, rather than relying on overly specific protocols. If a rule cannot be found quickly, make the wisest decision possible to keep the game flowing. Look it up later.
+**Rulings, not rules**, favor the orator; making good judgment calls is preferred rather than relying on overly specific protocols. If a rule cannot be found quickly, make the wisest decision possible to keep the game flowing. Look it up later.
 
 **Specific beats general** takes precedence in the arbitration of the rules. Some rules may break or contradict others. In such cases, more specific rules usually override general rules, per the orator.
 
