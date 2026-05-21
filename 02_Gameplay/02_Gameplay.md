@@ -20,7 +20,7 @@ Downtime scenes are primarily for recovery and development while not adventuring
 
 #### Encounter Scenes
 
-Encounter scenes are the meat and potatoes of adventuring, primarily involving interaction and combat, such as engaging heroes or fighting monsters. Encounters are used for social interplay, negotiation, and conflict resolution. Turns in encounter scenes are typically represented in `moments`, usually mere seconds per turn. `Breaks` or `rests` do not generally occur during encounter scenes, but often just after to `heal`.
+Encounter scenes are the meat and potatoes of adventuring, primarily involving interaction and combat, such as engaging heroes or fighting monsters. Encounters are used for social interplay, negotiation, and conflict resolution. Turns in encounter scenes are typically represented in mere seconds per turn. `Breaks` or `rests` do not generally occur during encounter scenes, but often just after to `heal`.
 
 >**Transition to Structured Turns**
 >
@@ -28,11 +28,13 @@ Encounter scenes are the meat and potatoes of adventuring, primarily involving i
 
 ### Rounds and Turns
 
-Rounds and turns are a way to track actions and effects. Rounds are mostly abstract, but if more detailed timeframes are needed, each round represents up to 6 seconds in-game. Within a round, all heroes are granted a turn to resolve their actions. A round concludes once everyone has finalized their turn.
+Rounds are a way to track actions, reactions, and `lingering effects`. Rounds are mostly abstract, but if more detailed timeframes are needed, each round represents up to `6 seconds` in-game. Within a round, the heroes are granted a turn to resolve their actions and reactions, except those with the `surprised condition`. A round concludes once everyone has finalized their turn.
 
-**Initiative is used to determine** the order of actions within a round. All adventurers roll a speed check minus any speed modifiers, and minus the challenge rating of the highest monster involved. Those who are successful will act before the monsters; those who fail will act after the monsters. The individual order within each group that succeeded or failed is up to the group.
+#### Initiative
 
-**If the intended action changes** from the original used in the initiative check, then the new action goes last in the round.
+Initiative is used to determine the order of actions within a round. The order is divided into three moments: Early actions, reactions, and late actions. This order is determined by a DEX Check minus any lag from devices, weapons, spells, and conditions. For an action to occur early, the performance of the check must beat the monster's challenge rating; otherwise, the action occurs late. Also, holding or changing an early action will then occur late, while holding or changing a late action is `disadvantaged`. Actions past the late phase are lost for the round; however, an exception applies to effects with a duration of 2 rounds or more.
+
+
 
 
 
@@ -44,7 +46,7 @@ Rounds and turns are a way to track actions and effects. Rounds are mostly abstr
 
 When the gamemaster deems it appropriate, heroes may gain an advantage or disadvantage based on the action or situation. These modifiers are usually applied to the check but may also apply to any single die roll or even multiple dice (dice pools).
 
-> **Cancelling Advantage/Disadvantage**
+> **Canceling Advantage/Disadvantage**
 >
 > It's essential to note that advantage dice and disadvantage dice cancel each other out equally until only one side remains, which is then applied to the check normally.
 
