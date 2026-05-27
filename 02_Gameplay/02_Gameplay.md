@@ -6,13 +6,13 @@
 
 ### Setting the Scene
 
-Scenes are primarily a narrative tool for the gamemaster to structure adventures. Scenes fall into three broad states, with some activities overlapping. For example, depending on the context, traveling could be considered an exploration or downtime activity.
+Scenes are primarily a narrative tool for the game master to structure adventures. Scenes fall into three broad states, with some activities overlapping. For example, depending on the context, traveling could be considered an exploration or downtime activity.
 
-The gamemaster sets each scene and manages the transitions between them, often as part of the adventure or plot, or in response to player cues. Transitions can occur seamlessly or dramatically, depending on the situation, maintaining the narrative's dynamic flow.
+The game master sets each scene and manages the transitions between them, often as part of the adventure or plot, or in response to player cues. Transitions can occur seamlessly or dramatically, depending on the situation, maintaining the narrative's dynamic flow.
 
 #### Exploration Scenes
 
-Exploration scenes are for investigation and discovery, such as delving, examining, problem-solving, searching, and traveling. Exploration can be used by the gamemaster for worldbuilding and to raise anticipation during an adventure. Turns in adventuring scenes range from minutes for a quick investigation to hours for traveling between locations. Heroes can take `breaks or rests` while exploring. These breaks typically allow for `healing` and `partial recovery` from certain `conditions` (see `Recovery` and/or `Conditions`).
+Exploration scenes are for investigation and discovery, such as delving, examining, problem-solving, searching, and traveling. Exploration can be used by the game master for worldbuilding and to raise anticipation during an adventure. Turns in adventuring scenes range from minutes for a quick investigation to hours for traveling between locations. Heroes can take `breaks or rests` while exploring. These breaks typically allow for `healing` and `partial recovery` from certain `conditions` (see `Recovery` and/or `Conditions`).
 
 #### Downtime Scenes
 
@@ -24,7 +24,7 @@ Encounter scenes are the meat and potatoes of adventuring, primarily involving i
 
 >**Transition to Structured Turns**
 >
->When a scene transitions to an encounter, the gameplay often shifts to a more structured turn-taking format, where the flow of actions is dictated by `preparedness, range, and momentum` (see `Combat`).` However, not all encounters require this structured approach. Gamemasters should use discretion when determining such a format. This transition will likely occur during a chase, social conflict, negotiation, or combat.
+>When a scene transitions to an encounter, the gameplay often shifts to a more structured turn-taking format, where the flow of actions is dictated by `preparedness, range, and momentum` (see `Combat`).` However, not all encounters require this structured approach. game masters should use discretion when determining such a format. This transition will likely occur during a chase, social conflict, negotiation, or combat.
 
 ### Rounds and Turns
 
@@ -44,7 +44,7 @@ Initiative is used to determine the order of actions within a round. The order i
 
 #### Advantage / Disadvantage Dice
 
-When the gamemaster deems it appropriate, heroes may gain an advantage or disadvantage based on the action or situation. These modifiers are usually applied to the check but may also apply to any single die roll or even multiple dice (dice pools).
+When the game master deems it appropriate, heroes may gain an advantage or disadvantage based on the action or situation. These modifiers are usually applied to the check but may also apply to any single die roll or even multiple dice (dice pools).
 
 > **Canceling Advantage/Disadvantage**
 >
