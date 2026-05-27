@@ -4,9 +4,9 @@ A tabletop role-playing game (TTRPG or RPG) is a collaborative storytelling expe
 
 ## The Game Basics
 
-*Unsafe Engine* is a tabletop adventure ruleset. More specifically, a rules-lite, player-facing, 3d6 roll-under, role-playing game designed for storytelling, danger, action flow, player agency, and cenematics; and largely a return to theatre-of-the-mind gameplay, but with surprising detail and tactical options.
+*Unsafe Engine* is a tabletop adventure ruleset. More specifically, a rules-lite, player-facing, 3d6 roll-under, role-playing game designed for storytelling, danger, action flow, player agency, cenematics, and fewer, more functional rolls; and a return to theatre-of-the-mind gameplay, but with surprising detail and tactical options.
 
-*Unsafe Engine* is written in an old-school renaissance (OSR) style, so it plays fast and loose with less emphasis on rules and more on rulings, also known as rules as intended. Although maps and miniatures can be used, most game aids are minimal. However, unlike other lite role-playing games, the mechanics are subtly clever, with many built-in features and systems that automatically scale the game.
+*Unsafe Engine* is written in an old-school renaissance (OSR) style, so it plays fast and loose with fewer rules and more rulings, also known as rules as intended. Although maps and miniatures can be used, most game aids are minimal. However, unlike other lite role-playing games, the mechanics are subtly clever, with many built-in features and systems that automatically scale the game.
 
 *Unsafe Engine* also allows for greater choices, more hero options, detailed equipment, and many supplemental rules to augment and customize gameplay. Whether you're looking for streamlined mechanics or a more narrative-focused experience, this framework offers a flexible ruleset that adapts to your style of play.
 
