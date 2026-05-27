@@ -4,6 +4,7 @@
 
 - Renamed and updated the Introduction section.
 - Reworded and fixed grammar issues in the Introduction section.
+- Updated Rounds and Turns, Initiative, added Surprise, and fixed grammar.
 
 ## May 20th, 2026
 

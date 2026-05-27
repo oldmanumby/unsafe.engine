@@ -12,31 +12,31 @@ The game master sets each scene and manages the transitions between them, often 
 
 #### Exploration Scenes
 
-Exploration scenes are for investigation and discovery, such as delving, examining, problem-solving, searching, and traveling. Exploration can be used by the game master for worldbuilding and to raise anticipation during an adventure. Turns in adventuring scenes range from minutes for a quick investigation to hours for traveling between locations. Heroes can take `breaks or rests` while exploring. These breaks typically allow for `healing` and `partial recovery` from certain `conditions` (see `Recovery` and/or `Conditions`).
+Exploration scenes are for investigation and discovery, such as delving, examining, problem-solving, searching, and traveling. The game master can use exploration for worldbuilding and to boost anticipation during an adventure. Turns in adventuring scenes range from minutes for a quick investigation to hours for traveling between locations. Heroes can take `breaks or rests` while exploring. These breaks typically allow for `rest`, `healing`, and `partial recovery` from certain `conditions` (see `Recovery` and/or `Conditions`).
 
 #### Downtime Scenes
 
-Downtime scenes are primarily for recovery and development while not adventuring, such as carousing, crafting, conducting research, and training. Downtime can be used for hero development, hero goals, worldbuilding, and strengthening relationships between heroes and the setting. Turns in downtime scenes typically represent days, weeks, or even extended periods. Heroes can `rest` during downtime scenes. Rests typically occur over an extended period (e.g., an overnight rest) and provide significant rewards, including `full recovery` from most `conditions` (see `Recovery` and/or `Conditions`).
+Downtime scenes are primarily for `recovery` and development while not adventuring, such as carousing, crafting, conducting research, training, or tending to other duties. Downtime can be used for hero development, goal-setting, strengthening relationships, and worldbuilding; all great opportunities for role-playing. Turns in downtime scenes typically represent days, weeks, or longer periods, as needed. Such time can provide significant `rest`, `healing`, and `full recovery` from most `conditions` (see `Recovery` and/or `Conditions`).
 
 #### Encounter Scenes
 
-Encounter scenes are the meat and potatoes of adventuring, primarily involving interaction and combat, such as engaging heroes or fighting monsters. Encounters are used for social interplay, negotiation, and conflict resolution. Turns in encounter scenes are typically represented in mere seconds per turn. `Breaks` or `rests` do not generally occur during encounter scenes, but often just after to `heal`.
+Encounter scenes are the meat and potatoes of a hero's adventuring career, primarily involving interaction and combat, such as engaging other characters for social interplay, negotiation, conflict resolution, and fighting monsters. Turns in encounter scenes are typically represented in `mere seconds` per turn. `Breaks` or `rests` do not generally occur during encounter scenes, but often just after to `heal`.
 
 >**Transition to Structured Turns**
 >
->When a scene transitions to an encounter, the gameplay often shifts to a more structured turn-taking format, where the flow of actions is dictated by `preparedness, range, and momentum` (see `Combat`).` However, not all encounters require this structured approach. game masters should use discretion when determining such a format. This transition will likely occur during a chase, social conflict, negotiation, or combat.
+>When a scene transitions to an encounter, the gameplay often shifts to a more structured turn-taking format, where the flow of actions is dictated by `preparedness, range, and momentum` (see `Combat`).` However, not all encounters require this structured approach. Game masters should use discretion when determining such a format. Such transitions often occur during a chase, at the start of combat, or when social conflict or negotiation requires checks.
 
 ### Rounds and Turns
 
-Rounds are a way to track actions, reactions, and `lingering effects`. Rounds are mostly abstract, but if more detailed timeframes are needed, each round represents up to `6 seconds` in-game. Within a round, the heroes are granted a turn to resolve their actions and reactions, except those with the `surprised condition`. A round concludes once everyone has finalized their turn.
+Rounds are a way to track actions, reactions, and `lingering effects`. Rounds are mostly abstract, but if more detailed timeframes are needed, each round can represent up to `6 seconds` in-game.
+
+Within a round where combat begins, each hero rolls an `initiative check` and is granted a turn to resolve any `actions` or `movement`. Reactions are rolled during the monster's turn. A round concludes once everyone has finalized their turn, but if combat has not concluded, the process begins again.
 
 #### Initiative
 
-Initiative is used to determine the order of actions within a round. The order is divided into three moments: Early actions, reactions, and late actions. This order is determined by a DEX Check minus any lag from devices, weapons, spells, and conditions. For an action to occur early, the performance of the check must beat the monster's challenge rating; otherwise, the action occurs late. Also, holding or changing an early action will then occur late, while holding or changing a late action is `disadvantaged`. Actions past the late phase are lost for the round; however, an exception applies to effects with a duration of 2 rounds or more.
+Initiative is used to determine the order of actions within a round. The order is divided into four moments: Surprise, early actions, reactions, and late actions. This order is determined by a DEX or WIS Check (whichever is higher), minus any `lag` from devices, weapons, spells, or conditions. For `ambushed` encounters, the initiative check is at a `disadvantage`. Once the check is rolled, an action occurs early if the check's performance `reaches or beats` the monster's `challenge rating`; else, the action occurs late.
 
-
-
-
+Also, an *early action* delayed, held, or changed at the last moment `occurs late` instead, while a delayed, held, or changed *late action* imposes `disadvantage` or may be `readied` for the next round with `advantage on initiative`, hero's choice
 
 
 
