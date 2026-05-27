@@ -1,8 +1,13 @@
 # Changelog
 
+## May 27th, 2026
+
+- Renamed and updated the Introduction section.
+- Reworded and fixed grammar issues in the Introduction section.
+
 ## May 20th, 2026
 
-* Added the Introduction and Game Mechanics files.
+- Added Playing the Game and Game Mechanics files.
 
 ## May 19th, 2026
 
