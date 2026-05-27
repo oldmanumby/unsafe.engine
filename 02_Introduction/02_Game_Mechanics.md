@@ -34,9 +34,9 @@ Within a round where combat begins, each hero rolls an `initiative check` and is
 
 #### Initiative
 
-Initiative is used to determine the order of actions within a round. The order is divided into four moments: Surprise, early actions, reactions, and late actions. This order is determined by a DEX or WIS Check (whichever is higher), minus any `lag` from devices, weapons, spells, or conditions. For `ambushed` encounters, the initiative check is at a `disadvantage`. Once the check is rolled, an action occurs early if the check's performance `reaches or beats` the monster's `challenge rating`; else, the action occurs late.
+Initiative is used to determine the order of actions within a round. The order is divided into four moments: Surprise, early actions, reactions, and late actions. This order is determined by a DEX or WIS Check (whichever is higher), minus any `lag` from devices, weapons, spells, or conditions. For `ambushed` encounters, the initiative check is at a `disadvantage`. Once the check is rolled, an action occurs early if the `check's performance` `reaches or beats` the monster's `challenge rating`; else, the action occurs late.
 
-Also, an *early action* delayed, held, or changed at the last moment `occurs late` instead, while a delayed, held, or changed *late action* imposes `disadvantage` or may be `readied` for the next round with `advantage on initiative`, hero's choice
+Also, an *early action* altered (delayed, held, or changed) at the last moment `occurs late` instead, while an altered *late action* imposes `disadvantage` or may be `readied` for the next round with `advantage on initiative`, hero's choice.
 
 
 
