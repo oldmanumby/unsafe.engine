@@ -4,9 +4,9 @@ A tabletop role-playing game (TTRPG or RPG) is a collaborative storytelling expe
 
 ## The Game Basics
 
-*Unsafe Engine* is a tabletop adventure ruleset. More specifically, a rules-lite, player-facing, 3d6 roll-under, role-playing game designed for storytelling, danger, action flow, player agency, cenematics, and fewer, more functional rolls; and a return to theatre-of-the-mind gameplay, but with surprising detail and tactical options.
+*Unsafe Engine* is a tabletop adventure ruleset. More specifically, a rules-lite, player-facing, 3d6 roll-under, role-playing game. The game mechanics are designed for storytelling, danger, action flow, player agency, cinematics, fewer, more functional rolls, and a return to theatre-of-the-mind gameplay, with surprising detail and tactical options.
 
-*Unsafe Engine* is written in an old-school renaissance (OSR) style, so it plays fast and loose with fewer rules and more rulings, also known as rules as intended. Although maps and miniatures can be used, most game aids are minimal. However, unlike other lite role-playing games, the mechanics are subtly clever, with many built-in features and systems that automatically scale the game.
+*Unsafe Engine* is written in an old-school renaissance (OSR) style, so it plays fast and loose with fewer rules and more rulings, also known as rules as intended. The rules herein are `tag-driven` and so are very easy to use. Although maps and miniatures can be used, most game aids are minimal. However, unlike other lite role-playing games, the mechanics are subtly clever, with many built-in features and systems that automatically scale the game.
 
 *Unsafe Engine* also allows for greater choices, more hero options, detailed equipment, and many supplemental rules to augment and customize gameplay. Whether you're looking for streamlined mechanics or a more narrative-focused experience, this framework offers a flexible ruleset that adapts to your style of play.
 
@@ -30,11 +30,11 @@ A tabletop role-playing game typically involves a group of players, usually rang
 
 *Unsafe Engine* offers several approaches to gameplay.
 
-**Group play** is the primary play mode, featuring a group of players and a game master, and also includes one-on-one sessions. Except where noted, this ruleset assumes this mode.
+**GroupPlay** is the primary play mode, featuring a group of players and a game master, and also includes one-on-one sessions. Except where noted, this ruleset assumes this mode.
 
-**Co-op play** allows a group of players to play without a game master. The players collaborate to tell the story, using as much or as little of the `oracle` as needed to guide the narrative.
+**CoopPlay** allows a group of players to play without a game master. The players collaborate to tell the story, using as much or as little of the `oracle` as needed to guide the narrative.
 
-**Solo play** is when a single player assumes the roles of both the player and the game master, creatively using the `oracle` and various tables to help guide the narrative.
+**SoloPlay** is when a single player assumes the roles of both the player and the game master, creatively using the `oracle` and various tables to help guide the narrative.
 
 ## The Game Sessions
 
@@ -80,7 +80,7 @@ These conventions are customarily practiced throughout this ruleset.
 
 **Always round up** unless specified otherwise. Any division or multiplication of numbers will always round up, no matter the fraction; this should always reflect a minimum of 1 on any result.
 
-**Keywords and their abbreviations** (abbrev.) are used throughout this ruleset and are typically defined where they first appear in the content. `Check the index to clarify whether a keyword is used but not immediately defined.` 
+**Keywords and their abbreviations** (abbrv) are used throughout this ruleset and are typically defined where they first appear in the material. `Check the index to clarify whether a keyword is used but not immediately defined.` 
 
 **Rulings, not rules**, favor the game master in making good judgment calls rather than relying on overly specific protocols or rules. If a rule cannot be found quickly, make the wisest decision possible to keep the game flowing. Look it up later.
 
