@@ -2,31 +2,61 @@
 
 `copy needed here`
 
-## Game Flow
+## Rolling The Dice
 
-### Setting the Scene
 
-Scenes are primarily a narrative tool for the game master to structure adventures. Scenes fall into three broad states, with some activities overlapping. For example, depending on the context, traveling could be considered an exploration or downtime activity.
 
-The game master sets each scene and manages the transitions between them, often as part of the adventure or plot, or in response to player cues. Transitions can occur seamlessly or dramatically, depending on the situation, maintaining the narrative's dynamic flow.
+## Abilities
 
-#### Exploration Scenes
+All heroes have 6 natural abilities that gauge their competence at performing actions under pressure. The first 3 abilities represent the `physical statistics` of strength, dexterity, and constitution, while the second 3 represent the `mental statistics` of intelligence, wisdom, and charisma.
 
-Exploration scenes are for investigation and discovery, such as delving, examining, problem-solving, searching, and traveling. The game master can use exploration for worldbuilding and to boost anticipation during an adventure. Turns in adventuring scenes range from minutes for a quick investigation to hours for traveling between locations. Heroes can take `breaks or rests` while exploring. These breaks typically allow for `rest`, `healing`, and `partial recovery` from certain `conditions` (see `Recovery` and/or `Conditions`).
+Use the definitions and keywords below to determine the ideal ability for each dice roll. Be aware that similar circumstances won't always call for the same ability; each choice varies depending on the situation and the challenges involved, per the game master.
 
-#### Downtime Scenes
+#### Strength (STR)
 
-Downtime scenes are primarily for `recovery` and development while not adventuring, such as carousing, crafting, conducting research, training, or tending to other duties. Downtime can be used for hero development, goal-setting, strengthening relationships, and worldbuilding; all great opportunities for role-playing. Turns in downtime scenes typically represent days, weeks, or longer periods, as needed. Such time can provide significant `rest`, `healing`, and `full recovery` from most `conditions` (see `Recovery` and/or `Conditions`).
+Strength measures brawn, leverage, might, muscle, and physical power. STR Checks are used in combat to `strike or throw`. For `reactions`, strength is used to `block melee attacks` and resist effects that physically move or bind.
+**Strength Feats:** Climb, Force, Leap.
 
-#### Encounter Scenes
+#### Dexterity (DEX)
 
-Encounter scenes are the meat and potatoes of a hero's adventuring career, primarily involving interaction and combat, such as engaging other characters for social interplay, negotiation, conflict resolution, and fighting monsters. Turns in encounter scenes are typically represented in `mere seconds` per turn. `Breaks` or `rests` do not generally occur during encounter scenes, but often just after to `heal`.
+Dexterity represents accuracy, agility, balance, coordination, nimbleness, and reflexes. DEX Checks are used in combat to `shoot or throw`. For `reactions`, dexterity is used to `evade melee attacks` and to resist effects that can be skirted or escaped.
+**Dexterity Feats:** Balance, Sneak, Tumble.
 
->**Transition to Structured Turns**
->
->When a scene transitions to an encounter, the gameplay often shifts to a more structured turn-taking format, where the flow of actions is dictated by `preparedness, range, and momentum` (see `Combat`).` However, not all encounters require this structured approach. Game masters should use discretion when determining such a format. Such transitions often occur during a chase, at the start of combat, or when social conflict or negotiation requires checks.
+#### Constitution (CON)
 
-### Rounds and Turns
+Constitution incorporates fitness, fortitude, health, resilience, stamina, and vigor. CON Checks are used in combat to `charge and slam` opponents and to cast or activate blood magic. For `reactions`, constitution is used to resist fatigue, illnesses, toxins, and debilitating effects.
+**Constitution Feats:** Dash, March, Swim.
+
+#### Intelligence (INT)
+
+Intelligence embodies cleverness, intellect, logic, reason, sanity, and wits. INT Checks are used to cast or activate arcane magic and use psionics. For `reactions`, intelligence is used to resist mental assaults and effects that alter normal thinking.
+**Intelligence Feats:** Craft, Reason, Recall.
+
+#### Wisdom (WIS)
+
+Wisdom constitutes common sense, insight, instincts, intuition, judgment, and perception. WIS Checks are used to cast or activate divine magic. For `reactions`, wisdom is used to resist illusions, deception in its many forms, and sensory effects.
+**Wisdom Feats:** Heal, Notice, Ride.
+
+#### Charisma (CHA)
+
+Charisma symbolizes bearing, charm, composure, demeanor, presence, resolve, and willpower. CHA Checks are used to cast and activate fey and pact magic. For `reactions`, charisma is used to resist charm, domination, persuasion, and effects that diminish or overcome willpower.
+**Charisma Feats:** Influence, Perform. Trick.
+
+### Ability Scores
+
+Each ability has a score from 3 to 18. A score of 10 is considered ordinary, `granting a base 50% chance of success on a roll`. Scores of 1-2 are febble, scores of 19-20 are extraordinary, and scores of 21 and higher are reserved for powerful creatures, immortals, superior beings, and the higher powers.
+
+There are instances when ability scores can take damage. If any score ever drops to 0 (zero), `incapacitation occurs immediately`.
+
+## Skillsets
+
+
+
+### Specializations
+
+
+
+## Rounds and Turns
 
 Rounds are a way to track actions, reactions, and `lingering effects`. Rounds are mostly abstract, but if more detailed timeframes are needed, each round can represent up to `6 seconds` in-game.
 
@@ -34,9 +64,29 @@ Within a round where combat begins, each hero rolls an `initiative check` and is
 
 #### Initiative
 
-Initiative is used to determine the order of actions within a round. The order is divided into four moments: Surprise, early actions, reactions, and late actions. This order is determined by a DEX or WIS Check (whichever is higher), minus any `lag` from devices, weapons, spells, or conditions. For `ambushed` encounters, the initiative check is at a `disadvantage`. Once the check is rolled, an action occurs early if the `check's performance` `reaches or beats` the monster's `challenge rating`; else, the action occurs late.
+Initiative is used to determine the order of actions within a round. The order is divided into four moments: Surprise, early actions, reactions, and late actions. This order is determined by a DEX Check, minus any `lag` from devices, weapons, spells, or conditions. For `ambush` encounters, initiative is a WIS check with disadvantage and any lag. Once the check is rolled, an action occurs early if the `check's performance` `reaches or beats` the monster's `challenge rating`; else, the action occurs late.
 
 Also, an *early action* altered (delayed, held, or changed) at the last moment `occurs late` instead, while an altered *late action* imposes `disadvantage` or may be `readied` for the next round with `advantage on initiative`, hero's choice.
+
+## Range and Speed
+
+Distances are typically measured in abstract range bands, which are also used to determine diameter for effects. However, if more detailed distances are needed, use spaces, with one space equaling one 5-foot square on a typical map. On maps with 10-foot squares, it costs 2 spaces per square to move.
+
+Multipliers may also be applied to range bands. For example, Near x2 is approx.12 spaces or 60 feet.
+
+**Self/Target** is oneself, or another individual, or personal space.
+
+**Close** is a stepping and striking distance; approx. 2 spaces or 5 to 10 feet.
+
+**Near** is a hurried and throwing distance; approx. 6 spaces or 30 feet.
+
+**Far** is a sprinting and shooting distance; approx. 18 spaces or 90 feet.
+
+**Visual** is beyond far but within clear sight.
+
+**Remote** is anywhere out of clear sight.
+
+
 
 
 
@@ -44,12 +94,12 @@ Also, an *early action* altered (delayed, held, or changed) at the last moment `
 
 #### Advantage / Disadvantage Dice
 
-When the game master deems it appropriate, heroes may gain an advantage or disadvantage based on the action or situation. These modifiers are usually applied to the check but may also apply to any single die roll or even multiple dice (dice pools).
+When the game master deems it appropriate, heroes may gain an advantage or disadvantage based on the action or situation. It's essential to note that advantage dice and disadvantage dice cancel each other out equally until only one side remains, which is then applied to the check normally.
 
-> **Canceling Advantage/Disadvantage**
->
-> It's essential to note that advantage dice and disadvantage dice cancel each other out equally until only one side remains, which is then applied to the check normally.
+***Advantage (ADV)*** improves the odds by adding extra dice to the roll and using the best results, discarding the worst. Also, multiple advantage dice stack. 
 
-***Advantage (ADV)*** improves the odds by adding extra dice to the roll and using the best results, discarding the worst. Under these rules, multiple advantage dice stack. For percentile dice, advantage allows the player to swap the dice positions (ones and tens) *AFTER* the roll to achieve the best outcome. During hero creation, a 4d6 dice pool with advantage (dropping the lowest die) is used for `Prime Attributes`.
+During hero creation, a 4d6 dice pool with advantage (dropping the lowest die) is used for `Prime Attributes`.
 
-***Disadvantage (DIS)*** worsens the odds by adding extra dice to the roll and using the worst results, discarding the best. Under these rules, multiple disadvantage dice stack. For percentile dice, disadvantage forces the player to swap the dice positions (ones and tens) *AFTER* the roll to achieve the worst outcome. During hero creation, a 4d6 dice pool with disadvantage (dropping the highest die) is used for `Slighted Attributes`.
+***Disadvantage (DIS)*** worsens the odds by adding extra dice to the roll and using the worst results, discarding the best. Also, multiple disadvantage dice stack. 
+
+During hero creation, a 4d6 dice pool with disadvantage (dropping the highest die) is used for `Slighted Attributes`.
